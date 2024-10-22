@@ -8,7 +8,7 @@
   
   <h3> Our Ofc Location : Ameerpet, Hyderbad </h3>
 
-  <p>Wish you all the best, people!</p>
+  <p> Wish you all the best, people! </p>
 
 </body>
 </html>
